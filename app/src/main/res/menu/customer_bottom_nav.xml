@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/customerHomeFragment"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Katalog" />
+    <item
+        android:id="@+id/cartFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Keranjang" />
+    <item
+        android:id="@+id/customerOrderListFragment"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Pesanan" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profil" />
+</menu>

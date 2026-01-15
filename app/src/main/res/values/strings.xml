@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Toko Thrift</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="username">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="is_admin">Masuk sebagai Admin</string>
+    <string name="dont_have_account">Belum punya akun? Daftar</string>
+    <string name="already_have_account">Sudah punya akun? Masuk</string>
+    <string name="name">Nama</string>
+    <string name="phone">No. Telepon</string>
+    <string name="address">Alamat</string>
+    
+    <string name="katalog">Katalog</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="profil">Profil</string>
+    <string name="detail_produk">Detail Produk</string>
+    <string name="tambah_ke_keranjang">Tambah ke Keranjang</string>
+    
+    <string name="admin_dashboard">Panel Admin</string>
+    <string name="manage_catalog">Kelola Katalog</string>
+    <string name="manage_orders">Kelola Pesanan</string>
+    <string name="sales_report">Laporan Penjualan</string>
+    <string name="logout">Keluar</string>
+    
+    <string name="total_amount">Total Bayar</string>
+    <string name="checkout">Pembayaran</string>
+    <string name="place_order">Buat Pesanan</string>
+    <string name="empty_cart">Keranjang Kosong</string>
+    <string name="empty_catalog">Katalog Kosong</string>
+    <string name="empty_orders">Belum ada pesanan</string>
+    
+    <string name="order_detail">Detail Pesanan</string>
+    <string name="order_status">Status Pesanan</string>
+    <string name="update_status">Perbarui Status</string>
+    
+    <string name="total_revenue">Total Pendapatan</string>
+    <string name="total_transactions">Total Transaksi</string>
+</resources>
